@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m currently working at Mena Gate<br>🌱 I’m currently learning Next<br>💬 Ask me about React<br>⚡ Fun fact - I'm lazy but smart
+🤝 I’m currently working at Arniva<br>💬 Ask me about React<br>⚡ Fun fact - I'm lazy but smart
 
 
 ## 🌐 Socials:
